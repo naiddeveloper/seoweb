@@ -798,4 +798,12 @@ span{
         width: 90px;
         /* margin-left: 10px; */
     }
+    .poster img {
+    height: 322px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
 }
