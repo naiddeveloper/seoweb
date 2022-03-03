@@ -765,6 +765,12 @@ span{
         gap: 10px;
         text-align: center;
     }
+    .data {
+    height: 90px;
+    width: 370px;
+    padding: 15px;
+    box-shadow: 0px 0px 10px rgb(128 128 128 / 70%);
+}
     .section6 {
         display: flex;
         justify-content: center;
